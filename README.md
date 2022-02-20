@@ -1,3 +1,2 @@
 # Hello-World
-$y = \sin(x)$ is a sine function. 
-$\mathbb{E}$ is expectation.
+I am a newer in programming world, hope to cooperate with everybody.
